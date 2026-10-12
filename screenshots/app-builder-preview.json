@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "همدم | بیمارستان آیت‌الله رئیسی",
+      "hasCanvas": false,
+      "bodyTextLen": 1159,
+      "bodyTextHash": "f166b44074dafa43f7b5b0f9213b3657e01c718655df74001f9b9a030892c6e5",
+      "bodyTextPrefix": "همدم بیمارستان آیت‌الله رئیسی · کرمانشاه خانه مسیر چکاپ پیگیری ح",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "همدم | بیمارستان آیت‌الله رئیسی",
+      "hasCanvas": false,
+      "bodyTextLen": 1060,
+      "bodyTextHash": "b2b507991d9b4c033f82643afe96505ca04447c8a1cdb8421277d29221af57ac",
+      "bodyTextPrefix": "همدم بیمارستان آیت‌الله رئیسی · کرمانشاه همدم ابزار اطلاع‌رسانی ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
